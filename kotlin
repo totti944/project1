@@ -1,0 +1,9 @@
+fun main() {
+    var a: Int = 115
+    var b: Int = 25
+    var c: Int = 15
+
+    var v = a*b*c
+
+    println(v)
+}
